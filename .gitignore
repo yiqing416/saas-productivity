@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Vite & React build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Env files
+.env
+.env.*  # like .env.local, .env.development, etc.
+
+# Editor-specific
+.DS_Store
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+
